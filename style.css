@@ -40,6 +40,9 @@ nav {
 nav a {
     color: white;
 }
+nav a:hover {
+    background-color: green;
+}
 li + li {
     margin-top: 10px;
 }
